@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hai noroc !
+
+Ma numesc Nicu si azi experimentez Github-ul !
